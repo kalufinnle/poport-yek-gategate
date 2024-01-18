@@ -15,7 +15,7 @@
 
 [Portkey's AI Gateway](https://portkey.ai/features/ai-gateway) is the interface between your app and hosted LLMs. It streamlines API requests to OpenAI, Anthropic, Mistral, LLama2, Anyscale, Google Gemini and more with a unified API. 
 
-Added Cloudflare worker by me
+✅&nbsp; Added Cloudflare worker by me <br>
 ✅&nbsp; Blazing **fast** (9.9x faster) with a **tiny footprint** (~45kb installed) <br>
 ✅&nbsp; **Load balance** across multiple models, providers, and keys <br> 
 ✅&nbsp; **Fallbacks** make sure your app stays resilient  <br>
